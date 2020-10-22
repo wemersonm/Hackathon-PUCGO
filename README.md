@@ -1,7 +1,7 @@
 # Hackathon-PUCGO 
 
 # Equipe Asgardianos!
-Membros: Amanda Kelly Rrodrigues Cândido, Giuilianni  dos Santos Oliveira, Grasielle Costa Santos, Wemerson Moura Viana e Willgnner Fereira Santos.
+Membros: Amanda Kelly Rrodrigues Cândido, Giuilianni dos Santos Oliveira, Grasielle Costa Santos, Wemerson Moura Viana e Willgnner Fereira Santos.
 
 # Título do projeto:
 Extensão Tradutor de Libras.
@@ -18,7 +18,7 @@ Foi criada uma extensão que se chama: Tradutor de Libras, onde as legendas dos 
 # Descrição do produto:
 Usa uma API para retirar a legenda do vídeo (saída), e envia para o aplicativo VLibras (entrada), realizando assim a reprodução da tradução em libras (saída) (pop-up).
 
-# Linguagem utilizada:
+Linguagem utilizada no projeto:
 Javascript e HTML.
 
 # Plataformas usadas:
@@ -41,6 +41,10 @@ Ter instado o aplicativo VLibras.
 # Imagem ilustrando a extensão sendo utilizada no navegador Google Chrome:
 
 ![image](https://user-images.githubusercontent.com/73254098/96866012-13a5e100-1441-11eb-96c1-40e5912bc0c3.png)
+
+# Demonstração da extensão sendo utilizada:
+
+![image](https://user-images.githubusercontent.com/73254098/96866833-44d2e100-1442-11eb-88f0-4de6e283ab6a.png)
 
 
 
