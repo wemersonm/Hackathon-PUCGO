@@ -12,7 +12,8 @@ Deficientes auditivos.
 # Descrição do problema:
 Uma das ferramentas mais utilizadas de acessibilidade é a legenda, no YouTube por exemplo existe a legenda automática porém, não está acessível uma fermenta de tradução automática dessa legenda para libras, para entender um vídeo o usuário surdo teria que copiar a transcrição de legendas, editar e depois entrar com esse texto no VLibras por exemplo, que é um tradutor de texto para libras grátis. Uma pesquisa rápida mostra que 70% dos surdos no Brasil não entendem a língua portuguesa, o que dificulta muito mais esse processo, podemos concluir que a integração dessa classe de deficiência é bem baixa nessa rede social e em outras cuja o foco é audiovisual.
 
-
+# Descrição da proposta de solução:
+Uma forma de amenizar esse déficit é a criação de uma extensão do Google Chrome, que faça uma ponte entre a legenda de um vídeo no YouTube com o VLibras automaticamente, descartando dessa forma a necessidade de tradução manual, permitindo que o surdo possa assistir ao vídeo ao mesmo tempo que a tradução de libras é exibida na tela também.
 
 # Descrição do produto:
 Usa uma API para retirar a legenda do vídeo (saída), e envia para o aplicativo VLibras (entrada), realizando assim a reprodução da tradução em libras (saída) (pop-up).
@@ -23,7 +24,7 @@ Javascript e HTML.
 # Plataformas usadas:
 Visual Studio e Google extension.
 
-# Como faz?
+# Como utilizar?
 1. Abra um vídeo no YouTube e o reproduz;
 2. Ligar a legenda automática;
 3. Apertar o botão da extensão localizada no canto superior direito do navegador Google Chrome, acima da barra de favoritos;
