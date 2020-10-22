@@ -9,10 +9,10 @@ Extensão Tradutor de Libras.
 # Público alvo:
 Deficientes auditivos.
 
+# Descrição do problema:
+Uma das ferramentas mais utilizadas de acessibilidade é a legenda, no YouTube por exemplo existe a legenda automática porém, não está acessível uma fermenta de tradução automática dessa legenda para libras, para entender um vídeo o usuário surdo teria que copiar a transcrição de legendas, editar e depois entrar com esse texto no VLibras por exemplo, que é um tradutor de texto para libras grátis. Uma pesquisa rápida mostra que 70% dos surdos no Brasil não entendem a língua portuguesa, o que dificulta muito mais esse processo, podemos concluir que a integração dessa classe de deficiência é bem baixa nessa rede social e em outras cuja o foco é audiovisual.
 
 
-# Descrição da proposta de solução:
-Foi criada uma extensão que se chama: Tradutor de Libras, onde as legendas dos vídeos da rede social YouTube são convertidas pela extensão Tradutor de Libras e exibidas pelo aplicativo VLibras.
 
 # Descrição do produto:
 Usa uma API para retirar a legenda do vídeo (saída), e envia para o aplicativo VLibras (entrada), realizando assim a reprodução da tradução em libras (saída) (pop-up).
