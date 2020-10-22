@@ -46,6 +46,8 @@ Como funciona: O VLibras é uma suíte de ferramentas utilizadas na tradução a
 
 O VLibras é uma ferramenta aberta, de distribuição livre, e desenvolvida para melhorar o acesso a informação das pessoas surdas brasileiras.
 
+![image](https://user-images.githubusercontent.com/73254098/96868875-07bc1e00-1445-11eb-8a88-256e8ff6f578.png)
+
 # Imagem ilustrando a extensão sendo utilizada no navegador Google Chrome:
 
 ![image](https://user-images.githubusercontent.com/73254098/96866012-13a5e100-1441-11eb-96c1-40e5912bc0c3.png)
