@@ -15,7 +15,17 @@ Uma das ferramentas mais utilizadas de acessibilidade é a legenda, no YouTube p
 # Descrição da proposta de solução:
 Uma forma de amenizar esse déficit é a criação de uma extensão do Google Chrome, que faça uma ponte entre a legenda de um vídeo no YouTube com o VLibras automaticamente, descartando dessa forma a necessidade de tradução manual, permitindo que o surdo possa assistir ao vídeo ao mesmo tempo que a tradução de libras é exibida na tela também.
 
-
+# Descrição do produto:
+A extensão usa dois API's, um para pegar a legenda do vídeo e outro para traduzir para Libras, funcionando da seguinte forma:
+Extensão (entrada) = id do vídeo; 
+API_Legenda (entrada) = vídeo;
+API_Legenda (saída) = arquivo de texto com a legenda; 
+// é feita a formatação desse texto, retirando tudo que não for para ser traduzido;
+API_tradutor (entrada) = arquivo de texto formatado;
+API_tradutor(saída) = tradução em forma de animação em um pop-up;
+//é exibida a saída;
+API_Legenda : Youtube Transcriptor -https://developers.google.com/youtube/v3/docs/captions
+API_Tradução: VLibras - https://softwarepublico.gov.br/gitlab/vlibras/vlibras-api
 
 # Linguagem utilizada no projeto:
 Javascript e HTML.
@@ -24,18 +34,15 @@ Javascript e HTML.
 Visual Studio e Google extension.
 
 # Como utilizar?
-1. Abra um vídeo no YouTube e o reproduz;
-2. Ligar a legenda automática;
-3. Apertar o botão da extensão localizada no canto superior direito do navegador Google Chrome, acima da barra de favoritos;
-4. Como irá funcionar na prática:
-Usar a API e extrair a legenda;
-Pegar a saída da API (legenda) e utilizar como entrada no VLibras;
-Pegar a saída do VLibras e reproduzir junto com o vídeo;
-Pop-up tem a mesma velocidade ou velocidade parecida;
-5. Tradução para o VLibras é exibida.
+1. Vá no google extension (chrome://extensions/);
+2. Instale a extensão "Tradutor de Libras 1.0";
+3. Abra um vídeo no YouTube (https://www.youtube.com/);
+4. Ative a legenda automática;
+5. Dê play no vídeo e clique na extensão;
+6. Assista à tradução da legenda simultânea a exibição do vídeo.
 
 # Requisitos pré estabelicidos:
-Ter instado o aplicativo VLibras.
+Ter extensão "Libras 1.0" instalado.
 
 # Descrição do VLibras:
 A Suíte VLibras consiste em um conjunto de ferramentas computacionais de código aberto, responsável por traduzir conteúdos digitais (texto, áudio e vídeo) para a Língua Brasileira de Sinais - LIBRAS, tornando computadores, dispositivos móveis e plataformas Web acessíveis para pessoas surdas.
