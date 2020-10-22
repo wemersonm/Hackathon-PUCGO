@@ -3,6 +3,7 @@
 # Equipe Asgardianos!
 Membros: Amanda Kelly Rrodrigues Cândido, Giuilianni  dos Santos Oliveira, Grasielle Costa Santos, Wemerson Moura Viana e Willgnner Fereira Santos.
 
+# Título do projeto:
 Extensão Tradutor de Libras.
 
 # Público alvo:
@@ -36,6 +37,10 @@ Pop-up tem a mesma velocidade ou velocidade parecida;
 
 # Requisitos pré estabelicidos:
 Ter instado o aplicativo VLibras.
+
+# Imagem ilustrando a extensão sendo utilizada no navegador Google Chrome:
+
+![image](https://user-images.githubusercontent.com/73254098/96866012-13a5e100-1441-11eb-96c1-40e5912bc0c3.png)
 
 
 
