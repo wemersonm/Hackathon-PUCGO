@@ -9,8 +9,7 @@ Extensão Tradutor de Libras.
 # Público alvo:
 Deficientes auditivos.
 
-# Descrição do problema:
-Os Deficientes auditivos possuem bastante dificuldades em entender a língua portuguesa, principalmente ao assistirem vídeos no YouTube, visto que a rede social não tem um suporte adequado para capitar as legendas e converter em libras.
+
 
 # Descrição da proposta de solução:
 Foi criada uma extensão que se chama: Tradutor de Libras, onde as legendas dos vídeos da rede social YouTube são convertidas pela extensão Tradutor de Libras e exibidas pelo aplicativo VLibras.
