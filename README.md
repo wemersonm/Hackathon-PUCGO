@@ -56,6 +56,9 @@ O VLibras é uma ferramenta aberta, de distribuição livre, e desenvolvida para
 
 ![image](https://user-images.githubusercontent.com/73254098/96866833-44d2e100-1442-11eb-88f0-4de6e283ab6a.png)
 
+![image](https://user-images.githubusercontent.com/73254098/96870364-2fac8100-1447-11eb-8c72-5546ea55c941.png)
+
+
 
 
 
