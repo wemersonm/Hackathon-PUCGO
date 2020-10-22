@@ -15,8 +15,7 @@ Uma das ferramentas mais utilizadas de acessibilidade é a legenda, no YouTube p
 # Descrição da proposta de solução:
 Uma forma de amenizar esse déficit é a criação de uma extensão do Google Chrome, que faça uma ponte entre a legenda de um vídeo no YouTube com o VLibras automaticamente, descartando dessa forma a necessidade de tradução manual, permitindo que o surdo possa assistir ao vídeo ao mesmo tempo que a tradução de libras é exibida na tela também.
 
-# Descrição do produto:
-Usa uma API para retirar a legenda do vídeo (saída), e envia para o aplicativo VLibras (entrada), realizando assim a reprodução da tradução em libras (saída) (pop-up).
+
 
 # Linguagem utilizada no projeto:
 Javascript e HTML.
