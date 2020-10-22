@@ -18,7 +18,7 @@ Foi criada uma extensão que se chama: Tradutor de Libras, onde as legendas dos 
 # Descrição do produto:
 Usa uma API para retirar a legenda do vídeo (saída), e envia para o aplicativo VLibras (entrada), realizando assim a reprodução da tradução em libras (saída) (pop-up).
 
-Linguagem utilizada no projeto:
+# Linguagem utilizada no projeto:
 Javascript e HTML.
 
 # Plataformas usadas:
