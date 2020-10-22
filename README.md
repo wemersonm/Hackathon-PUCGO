@@ -38,6 +38,14 @@ Pop-up tem a mesma velocidade ou velocidade parecida;
 # Requisitos pré estabelicidos:
 Ter instado o aplicativo VLibras.
 
+# Descrição do VLibras:
+A Suíte VLibras consiste em um conjunto de ferramentas computacionais de código aberto, responsável por traduzir conteúdos digitais (texto, áudio e vídeo) para a Língua Brasileira de Sinais - LIBRAS, tornando computadores, dispositivos móveis e plataformas Web acessíveis para pessoas surdas.
+Fonte: vlibras.gov.br
+
+Como funciona: O VLibras é uma suíte de ferramentas utilizadas na tradução automática do Português para a Língua Brasileira de Sinais. É possível utilizar essas ferramentas tanto no computador Desktop quanto em smartphones e tablets.
+
+O VLibras é uma ferramenta aberta, de distribuição livre, e desenvolvida para melhorar o acesso a informação das pessoas surdas brasileiras.
+
 # Imagem ilustrando a extensão sendo utilizada no navegador Google Chrome:
 
 ![image](https://user-images.githubusercontent.com/73254098/96866012-13a5e100-1441-11eb-96c1-40e5912bc0c3.png)
